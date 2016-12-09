@@ -1,1 +1,0 @@
-# zipursky-bowl-app-database-tools

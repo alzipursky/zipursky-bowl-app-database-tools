@@ -1,5 +1,4 @@
-//bare bones select bowl games info
-
+--bare bones select bowl games info
 select
 bowl_name,
 home.school_name as home_school_name,
